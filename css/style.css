@@ -1,0 +1,345 @@
+.container{
+	width:1170px;
+	padding:0 15px;
+	margin:0 auto;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	margin:0 -15px;
+}
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-lg-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+
+
+/*---------header start-----------*/
+.header{background:gray;
+	padding:15px 0;
+}
+.logo, .logo-menu{
+	background:white;
+	height:50px;
+}
+/*---------header end-----------*/
+/*---------banner start-----------*/
+.banner{
+	background:#4087a5;
+	padding:50px 0;
+}
+.banner-content{
+	background:white;
+	width:600px;
+	height:300px;
+}
+/*---------banner end-----------*/
+/*---------banner2 start-----------*/
+.banner2{
+	background:#5bb0a1;
+	padding:50px 0;
+}
+.banner2-content{
+	background:white;
+	width:600px;
+	height:300px;
+}
+/*---------banner2 end-----------*/
+/*---------value starts-----------*/
+.value{background:gray;
+	padding:15px 0;
+}
+.value-heading{
+	background:white;
+	height:50px;
+}
+.value-points{
+	background:white;
+	height:250px;
+	margin:20px 0;
+}
+
+/*---------value end-----------*/
+/*---------count start-----------*/
+.count{background:#4087a5;
+		padding:15px 0;
+}
+.number{
+	height:100px;
+	background:white;
+}
+/*---------count end-----------*/
+/*---------features starts-----------*/
+.features{
+	background:#d45a97;
+	padding:15px 0;
+}
+.features-content{
+	background:white;
+	height:50px;
+	margin:20px 0;
+	
+}
+.features-image{
+	background:white;
+	height:400px;
+	margin:20px 0;
+}
+/*---------features end-----------*/
+/*---------volunteer starts-----------*/
+.volunteer{background:gray;
+	padding:15px 0;
+}
+.volunteer-content{
+	background:white;
+	height:300px;
+}
+.volunteer-image{
+	background:white;
+	height:300px;
+}
+
+/*---------volunteer end-----------*/
+/*---------announce starts-----------*/
+.announce{background:#d45a97;
+	padding:15px 0;
+}
+.announce-heading{
+	background:white;
+	height:70px;
+}
+.announce-image{
+	background:white;
+	height:300px;
+	margin:20px 0;
+}
+.announce-content{
+	background:white;
+	height:50px;
+	margin:20px 0;
+}
+/*---------announce ends-----------*/
+/*---------service starts-----------*/
+.service{background:gray;
+	padding:15px 0;
+}
+.service-heading{
+	background:white;
+	height:50px;
+}
+.service-content{
+	background:white;
+	height:250px;
+	margin:20px 0;
+}
+
+/*---------service end-----------*/
+/*---------pricing starts-----------*/
+.pricing{background:#d45a97;
+	padding:15px 0;
+}
+.pricing-heading{
+	background:white;
+	height:50px;
+}
+.pricing-content{
+	background:white;
+	height:250px;
+	margin:20px 0;
+}
+
+/*---------pricing end-----------*/
+/*---------question starts-----------*/
+.question{background:#4087a5;
+	padding:15px 0;
+}
+.question-heading{
+	background:white;
+	height:75px;
+}
+.question-content{
+	background:white;
+	height:40px;
+	margin:10px 0;
+}
+
+/*---------question end-----------*/
+/*---------portfolio starts-----------*/
+.portfolio{
+	background:gray;
+	padding:15px 0;
+}
+.portfolio-heading{
+	background:white;
+	height:75px;
+}
+.portfolio-image{
+	background:white;
+	height:200px;
+	margin:20px 0;
+}
+/*---------portfolio end-----------*/
+/*---------testimonial starts-----------*/
+.testimonial{background:#d45a97;
+	padding:15px 0;
+}
+.testimonial-heading{
+	background:white;
+	height:70px;
+}
+.testimonial-points{
+	background:white;
+	height:300px;
+	margin:20px 0;
+}
+/*---------testimonial end-----------*/
+/*---------team starts-----------*/
+.team{background:#4087a5;
+	padding:15px 0;
+}
+.team-heading{
+	background:white;
+	height:70px;
+}
+.team-image{
+	background:white;
+	height:300px;
+	margin:20px 0;
+}
+/*---------team end-----------*/
+
+
+/*---------client start-----------*/
+.client{background:gray;
+		padding:15px 0;
+}
+.client-heading{
+	background:white;
+	height:70px;
+}
+.clientflex{
+	background:white;
+	height:75px;
+	margin:20px 0;
+}
+/*---------client end-----------*/
+/*---------blog start-----------*/
+.blog{background:#d45a97;
+		padding:15px 0;
+}
+.blog-heading{
+	background:white;
+	height:70px;
+}
+.blog-points{
+	background:white;
+	height:250px;
+	margin:20px 0;
+}
+/*---------blog end-----------*/
+/*---------contact starts-----------*/
+.contact{background:#4087a5;
+	padding:15px 0;
+}
+.contact-heading{
+	background:white;
+	height:70px;
+}
+.contact-ours{
+	background:white;
+	height:180px;
+	margin:20px 0;
+}
+.contact-yours{
+	background:white;
+	height:400px;
+	margin:20px 0;
+}
+/*---------contact end-----------*/
+/*---------channel start-----------*/
+.channel{
+	background:gray;
+	padding:15px 0;
+}
+.channel-content{
+	background:white;
+	width:600px;
+	height:50px;
+}
+/*---------channel end-----------*/
+/*---------address starts-----------*/
+.address{background:#d45a97;
+	padding:15px 0;
+}
+.address-logo{
+	background:white;
+	height:200px;
+}
+.address-links{
+	background:white;
+	height:200px;
+}
+.address-join{
+	background:white;
+	height:200px;
+}
+
+/*---------address end-----------*/
+/*---------footer start-----------*/
+.footer{
+	background:gray;
+	padding:15px 0;
+}
+.footer-content{
+	background:white;
+	width:600px;
+	height:50px;
+}
+/*---------footer end-----------*/
+
+
+
